@@ -1,3 +1,2 @@
 # MeanField
-
-Mean Field code for EuTiO3
+Mean Field code for magnetization of EuTiO3
